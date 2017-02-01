@@ -24,4 +24,12 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
 
+        <Button
+                android:layout_below="@+id/testbtn"
+                android:id="@+id/testbtn2"
+                android:text="test2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+
 </RelativeLayout>
